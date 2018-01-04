@@ -1,0 +1,48 @@
+body{
+	background-color:#899BA5;
+	background-image:url(../img/bi.jpg);
+    background-repeat:repeat;
+}
+
+.container {
+	width:960px;
+	margin:80px auto;
+}
+
+.img{
+	position:absolute;
+	background-repeat:repeat;
+}
+
+td {
+	font-size:20px;
+	width:120px;
+	height:40px;
+	text-align:center;
+	color:black;
+	cursor:pointer;
+	background-color:white;
+}
+
+td:hover{
+	background-color:#aaaacc;
+}
+
+input.txtField{
+	width:90px;
+	height:30px;
+}
+
+.thead{
+	background-color:#aaaacc;
+	color:#cc0033;
+}
+
+.optLink{
+	text-decoration:none;	
+	color:#f46948;
+}
+
+.optLink:hover{
+	color:#cc0033;
+}

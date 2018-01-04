@@ -1,1 +1,1 @@
-# ajaxDemo
+PHP+AJAX写的一个增删改查
